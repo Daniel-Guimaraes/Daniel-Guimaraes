@@ -18,7 +18,7 @@
 
 <p>🎓 &nbsp;I'm currently studying the <a href="https://www.rocketseat.com.br/explorer">Rocketseat Explorer</a>, which is a full-stack training focused on the most requested technologies on the market.</p>
 <p>💡 &nbsp;I like to spend most of my free time improving myself using the 7-2-1 method (70% coding, 20% networking, 10% branding).</p>
-<p>🌱 &nbsp;I'm on the right path to learn the most requested technologies on the market such as: ReactJs, NodeJs, SQL, Express, React Router, among others.....</p>
+<p>🌱 &nbsp;I'm on the right path to learn the most requested technologies on the market such as: JavaScript, ReactJs, NodeJs, SQL...</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
 
 
